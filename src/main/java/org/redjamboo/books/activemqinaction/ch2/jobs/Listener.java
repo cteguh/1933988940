@@ -4,7 +4,7 @@
  * @created Jun 27, 2015 7:22:46 PM
  *
  */
-package org.redjamboo.books.activemqinaction.ch2;
+package org.redjamboo.books.activemqinaction.ch2.jobs;
 
 import javax.jms.Message;
 import javax.jms.MessageListener;

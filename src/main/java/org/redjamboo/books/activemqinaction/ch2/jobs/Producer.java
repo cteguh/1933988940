@@ -4,7 +4,7 @@
  * @created Jun 27, 2015 7:25:20 PM
  *
  */
-package org.redjamboo.books.activemqinaction.ch2;
+package org.redjamboo.books.activemqinaction.ch2.jobs;
 
 import javax.jms.Connection;
 import javax.jms.ConnectionFactory;
